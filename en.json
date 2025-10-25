@@ -1,0 +1,18 @@
+{
+  "header": {
+    "title": "My Application",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "services": "Services"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 My Company",
+    "privacy_policy": "Privacy Policy"
+  },
+  "messages": {
+    "success": "Operation completed successfully.",
+    "error": "An error occurred."
+  }
+}
