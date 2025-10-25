@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": "Ma candidature",
+        "nav": {
+            "home": "Accueil",
+            "products": "Produits",
+            "services": "Services"
+        }
+    },
+    "footer": {
+        "copyright": "2025 My Company",
+        "privacy_policy": "Politique de confidentialité"
+    },
+    "messages": {
+        "success": "L'opération s'est déroulée avec succès.",
+        "error": "Une erreur s'est produite."
+    }
+}
