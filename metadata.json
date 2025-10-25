@@ -1,0 +1,7 @@
+{
+  "name": "Global-A11y Agent",
+  "description": "An autonomous agent that automates the Internationalization (i18n) and Localization (L10N) pipeline, checking for translation quality and web accessibility compliance. Features a real-time dashboard, Kanban board for issue tracking, and a voice-activated interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
