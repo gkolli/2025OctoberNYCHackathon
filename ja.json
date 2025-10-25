@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": "マイ・アプリケーション",
+        "nav": {
+            "home": "ホーム",
+            "products": "製品紹介",
+            "services": "サービス"
+        }
+    },
+    "footer": {
+        "copyright": "© 2025 マイ・カンパニー",
+        "privacy_policy": "プライバシーポリシー"
+    },
+    "messages": {
+        "success": "作戦は成功裏に完了した。",
+        "error": "エラーが発生しました。"
+    }
+}
